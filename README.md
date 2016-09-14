@@ -3,6 +3,6 @@ A simple packet sniffer made in python that captures network packets that your c
 
 ## How to run:
 
-Since the program uses MaxMind api, you have to download the python extension api (https://github.com/maxmind/geoip-api-python) and the GeoLiteCity database (http://dev.maxmind.com/geoip/legacy/geolite/). After you get all this just run python packetSniffer.py and prepare yourself to receive loads of traffic if you are connected to the Internet.
+Since the program uses MaxMind api, you have to download the python extension api (https://github.com/maxmind/geoip-api-python) and the GeoLiteCity database (http://dev.maxmind.com/geoip/legacy/geolite/). After you get all this just run python packetSniffer.py and prepare yourself to observe loads of traffic if you are connected to the Internet.
 
 
